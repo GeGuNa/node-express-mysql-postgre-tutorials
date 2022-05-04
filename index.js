@@ -18,7 +18,7 @@ fs.writeFileSync('qweq.txt', '124123c123c123c123', 'utf8')
 
 console.log('Server running at http://127.0.0.1:2984/');
 
-//https://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
+//
 
 /*
 

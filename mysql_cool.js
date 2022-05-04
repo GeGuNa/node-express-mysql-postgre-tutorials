@@ -7,9 +7,9 @@ var mysql2 = require('mysql');
 
 var pool2 = mysql2.createPool({
 host:'localhost',
-user:'soc_ge',
-password:'soc_ge',
-database:'soc_ge'
+user:'wwwwww',
+password:'wwwwww',
+database:'wwwwww'
 });
 
 */
@@ -19,9 +19,9 @@ database:'soc_ge'
 
 var pool2 = mysql2.createPool({
 host:'localhost',
-user:'soc_ge',
-password:'soc_ge',
-database:'soc_ge'
+user:'wwwwww',
+password:'wwwwww',
+database:'wwwwww'
 });
 
 /*
